@@ -1,4 +1,4 @@
-Digital BBook Store
+Digital Book Store
 ---------------------
 Technologies : Spring Boot, rest API, JPA, React JS, MySQL
 -------------------------------------------------------------
